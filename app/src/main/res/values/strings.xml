@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meta CTRLer</string>
+    <string name="tab_text_1">信息面板</string>
+    <string name="tab_text_2">功能设置</string>
+    <string name="rb_text_1">TOP</string>
+    <string name="rb_text_2">MIDDLE</string>
+    <string name="rb_text_3">BOTTOM</string>
+    <string name="title_activity_custom">CustomActivity</string>
+
+</resources>
